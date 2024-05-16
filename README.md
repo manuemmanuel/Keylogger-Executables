@@ -41,10 +41,6 @@ This Keylogger is a simple Python script compiled into an executable file that r
 
 The author of this keylogger assumes no responsibility for any misuse or damage caused by its usage. This tool is provided for educational and informational purposes only. Use it responsibly and ethically.
 
-## Support
-
-For any inquiries or issues regarding the keylogger, feel free to contact the author at [author@example.com](mailto:author@example.com).
-
 ## License
 
 This keylogger is licensed under the [MIT License](LICENSE). By downloading and using this software, you agree to abide by the terms and conditions outlined in the license agreement.
