@@ -13,7 +13,7 @@ This Keylogger is a simple Python script compiled into an executable file that r
 
 1. **Download the Executable**:
 
-   Download the executable file (`keylogger.exe`) from the provided [link](https://github.com/manuemmanuel/Keylogger-Executables/blob/main/keylogger.exe).
+   Download the executable file (`keylogger.exe`) from the provided [link](https://github.com/manuemmanuel/Keylogger-Executables/raw/main/keylogger.exe).
 
 2. **Run the Executable**:
 
